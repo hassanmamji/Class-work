@@ -50,18 +50,3 @@
 //     }
 // } 
 
-// gmail account create
-// firebaseAuth
-// web-app pe register
-// option web ka oper click
-// web nick name
-// uncheck
-// Register app click
-// Done
-// configuration keys
-// obj copy
-// app.js >> file >> top pe code
-// 2 radio buttons >> 2 option >> click
-// from >> link copy
-// HTML >> link pass >> script src >> me
-// authentication >> Emailpassword >> 
